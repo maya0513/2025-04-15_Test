@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.htc.upm.vive.openxr": "https://github.com/ViveSoftware/VIVE-OpenXR.git?path=com.htc.upm.vive.openxr",
     "com.justinpbarnett.unity-mcp": "https://github.com/justinpbarnett/unity-mcp.git?path=/UnityMcpBridge",
     "com.unity.ai.navigation": "2.0.6",
     "com.unity.collab-proxy": "2.7.1",
